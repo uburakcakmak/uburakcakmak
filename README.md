@@ -1,6 +1,6 @@
 ### Hi, I am Burak! Welcome to my Github Account. 👋
 
-I am working as Software Development Engineer at [SabancıDx](https://www.sabancidx.com/).
+I am working as Software Development Engineer and Scrum Master at [SabancıDx](https://www.sabancidx.com/).
 
 
 ## Ask me about 💬
