@@ -1,18 +1,8 @@
-### Hi! And welcome to my github. 👋
-
-
-My name is Kerem Varış. I live in Turkey.
-
-![Kerem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keremvaris&show_icons=true)
+### Hi, I am Burak! Welcome to my Github Account. 👋
 
 ## Job
 
-I'm working as a Co-Founder & CTO at [SolidTeam](https://www.devarchitecture.net)
-
-## I'm currently working on 🔭
-
-SennedjemFw(https://github.com/keremvaris/Sennedjem) & 
-DevArchitecture(https://github.com/DevArchitecture/DevArchitecture)
+Working as Software Development Engineer at[SabancıDx](https://www.sabancidx.com/)
 
 ## Know / Using 🧠
 
@@ -23,24 +13,21 @@ DevArchitecture(https://github.com/DevArchitecture/DevArchitecture)
 <code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
-
-
 ## Contact Me 📫
 
-You can find and get touch with me on these accounts!
-
-[![Linkedin Badge](https://img.shields.io/badge/keremvaris-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keremvaris/)
-[![Instagram Badge](https://img.shields.io/badge/keremvaris-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/kerem_varis/)
+You can get in touch with me on [Linkedin Badge](https://www.linkedin.com/in/umutburakcakmak/)
 
 ## Ask me about 💬
+ 
+  - .Net Core(not matter any version), ASP.Net Core MVC, C#, LinQ, WebAPI, Restful and SOAP Services, JWT, Microsoft Identity Server
+  - HTML5, CSS3, JQuery, JavaScript, Blazor, Vuejs
+  - Oracle, MS SQL Server, Postgre Sql, RedisCache, MemCache
+  - Git, JIRA, BitBucket, TFS, Azure DevOps, SourceTree, Bamboo
+  - Docker, Kubernetes, k8s, Rancher
+  - Hangfire, RabbitMQ
+  - N-Tier(Layered) Architecture, SOLID Principles, Aspect-Oriented Programming, Object-Oriented Programming, Repository Design Pattern, Test-Driven Development
+  - Clean Architecture, SOLID Principles, KISS and DRY Principles
+  - AWS WebAPI, AWS Lambda, AWS S3, AWS Dynamodb
+  - Unit Tests with NUnit, xUnit, UI Tests with Selenium WebDriver
+  - Agile Methodologies, Scrum Framework
 
-I'd like to get in touch with the following topics
-
-  - Design Patterns
-  - CQRS & BDD
-  - Clean Architecture
-  - Scrum
-  - Agile
-  - .NET Core
-  
-  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkeremvaris.keremvaris%2Freadme)
