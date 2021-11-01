@@ -4,7 +4,8 @@ I am working as Software Development Engineer at [SabancıDx](https://www.sabanc
 
 ## Contact 📫
 
-You can get in touch with me on [Linkedin](https://www.linkedin.com/in/umutburakcakmak/)
+You can get in touch with me on [Linkedin](https://www.linkedin.com/in/umutburakcakmak/).
+Furthermore, you may follow my writings on [Medium](https://medium.com/@uburakcakmak).
 
 ## Ask me about 💬
  
