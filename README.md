@@ -2,11 +2,6 @@
 
 I am working as Software Development Engineer at [SabancıDx](https://www.sabancidx.com/).
 
-## Contact 📫
-
-You can get in touch with me on [Linkedin](https://www.linkedin.com/in/umutburakcakmak/).
-
-Furthermore, you may follow my writings on [Medium](https://medium.com/@uburakcakmak).
 
 ## Ask me about 💬
  
@@ -21,4 +16,10 @@ Furthermore, you may follow my writings on [Medium](https://medium.com/@uburakca
   - AWS WebAPI, AWS Lambda, AWS S3, AWS Dynamodb
   - Unit Tests with NUnit, xUnit, UI Tests with Selenium WebDriver
   - Agile Methodologies, Scrum Framework
+
+## Contact 📫
+
+You can get in touch with me on [Linkedin](https://www.linkedin.com/in/umutburakcakmak/).
+
+Furthermore, you may follow my writings on [Medium](https://medium.com/@uburakcakmak).
 
