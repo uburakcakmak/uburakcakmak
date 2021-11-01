@@ -15,7 +15,7 @@ Working as Software Development Engineer at [SabancıDx](https://www.sabancidx.c
 
 ## Contact Me 📫
 
-You can get in touch with me on [Linkedin Badge](https://www.linkedin.com/in/umutburakcakmak/)
+You can get in touch with me on [Linkedin](https://www.linkedin.com/in/umutburakcakmak/)
 
 ## Ask me about 💬
  
