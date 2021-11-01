@@ -2,7 +2,7 @@
 
 ## Job
 
-Working as Software Development Engineer at[SabancıDx](https://www.sabancidx.com/)
+Working as Software Development Engineer at [SabancıDx](https://www.sabancidx.com/)
 
 ## Know / Using 🧠
 
