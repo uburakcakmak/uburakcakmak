@@ -1,19 +1,8 @@
 ### Hi, I am Burak! Welcome to my Github Account. 👋
 
-## Job
+I am working as Software Development Engineer at [SabancıDx](https://www.sabancidx.com/)
 
-Working as Software Development Engineer at [SabancıDx](https://www.sabancidx.com/)
-
-## Know / Using 🧠
-
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://www.elastic.co" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
-<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
-
-## Contact Me 📫
+## Contact 📫
 
 You can get in touch with me on [Linkedin](https://www.linkedin.com/in/umutburakcakmak/)
 
