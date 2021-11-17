@@ -5,7 +5,7 @@ I am working as Software Development Engineer and Scrum Master at [SabancıDx](h
 
 ## Ask me about 💬
  
-  - .Net Core(not matter any version), ASP.Net Core MVC, C#, LinQ, WebAPI, Restful and SOAP Services, JWT, Microsoft Identity Server
+  - .Net Core(no matter any version), ASP.Net Core MVC, C#, LinQ, WebAPI, Restful and SOAP Services, JWT, Microsoft Identity Server
   - HTML5, CSS3, JQuery, JavaScript, Blazor, Vuejs
   - Oracle, MS SQL Server, Postgre Sql, RedisCache, MemCache
   - Git, JIRA, BitBucket, TFS, Azure DevOps, SourceTree, Bamboo
