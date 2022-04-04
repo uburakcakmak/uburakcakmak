@@ -1,6 +1,6 @@
 ### Hi, I am Burak! Welcome to my Github Profile. 👋
 
-I am working as Software Development Engineer and Scrum Master at [SabancıDx](https://www.sabancidx.com/).
+I am working as Senior Software Specialist at [Arçelik Global](https://www.arcelik.com.tr/).
 
 
 ## Ask me about 💬
