@@ -1,12 +1,8 @@
 ### Hi, I am Burak! Welcome to my Github Profile. 👋
 
-I am working as a Lead Software Engineer at [Arçelik Global](https://www.arcelik.com.tr/).
-
-
 ## Ask me about 💬
  
   - .Net Core(v2.2, v3.1, v5, v6, v7, v8), ASP.Net Core MVC, Entity Framework Core, Dapper, C#, LinQ, WebAPI, Restful and SOAP Services, JWT Bearer, Microsoft Identity Server Development
-  - HTML5, CSS3, JQuery, JavaScript, Typescript
   - Oracle Database, MS SQL Server, Postgre Sql, MongoDb, RedisCache, MemCache
   - Git, JIRA, BitBucket, TFS, Azure DevOps(for Repo, Wiki and building of CI/CD Pipelines), SourceTree, Bamboo
   - Docker, Kubernetes, k8s, Rancher, GrayLog, Kibana, ElasticSearch
